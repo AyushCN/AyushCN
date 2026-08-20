@@ -21,6 +21,7 @@ TRACKED = [
     "car-management-system",
 ]
 
+
 def get_repo(name):
     url = f"https://api.github.com/repos/{USERNAME}/{name}"
     r = requests.get(url, headers=headers)
@@ -28,12 +29,14 @@ def get_repo(name):
         return None
     return r.json()
 
+
 def format_date(iso):
     try:
         dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
         return dt.strftime("%b %d, %Y")
-    except:
+    except Exception:
         return "Unknown"
+
 
 def build_section():
     lines = []
@@ -46,7 +49,6 @@ def build_section():
 
         status = "● **LIVE**" if i < 2 else "○ **RUN**"
         desc = data.get("description") or "No description"
-        lang = data.get("language") or "N/A"
         stars = data.get("stargazers_count", 0)
         forks = data.get("forks_count", 0)
         updated = format_date(data.get("updated_at", ""))
@@ -71,6 +73,7 @@ def build_section():
 
     return "\n".join(lines)
 
+
 def main():
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
@@ -93,6 +96,7 @@ def main():
         f.write(updated)
 
     print("README updated successfully")
+
 
 if __name__ == "__main__":
     main()
