@@ -16,43 +16,37 @@
 <h4 align="center">Some Technologies, Languages, Frameworks and others</h4>
 
 <p align="center">
-<img src="https://img.shields.io/badge/linux%20-%23000.svg?&style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-<img src="https://img.shields.io/badge/endeavouros%20-%237F7FFF.svg?&style=for-the-badge&logo=endeavouros&logoColor=white" alt="EndeavourOS" />
-<img src="https://img.shields.io/badge/fedora%20-%2351A2DA.svg?&style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
-<img src="https://img.shields.io/badge/go%20-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+	<img src="https://skillicons.dev/icons?i=linux,go,ts,js,py,react,nextjs,nodejs,docker,postgres,mysql,redis,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 </br>
 
-<!--START_SECTION:mydata-->
+## About Me
 
-```json
-{
-   "Ayush": {
-      "CurrentFocus": "Building real systems and exploring the Linux ecosystem",
-      "HowDoISeeMyselfIn5Years": "Deep in open source, shipping things that matter",
-      "Favorites": {
-         "OperationalSystem": "EndeavourOS",
-         "CurrentlyExploring": "Fedora",
-         "Language": "Go",
-         "Backend": ["Gin", "Express", "Flask", "Django"],
-         "Frontend": ["Next.js", "React", "Vite"],
-         "Databases": ["PostgreSQL", "MySQL", "Redis", "SQLite"]
-      }
-   },
-   "RandomStuff": {
-      "Status": "Open to collaboration",
-      "Mode": "Building real systems"
-   }
-}
-```
+- 🐧 **Linux Enthusiast** — daily driving **EndeavourOS**, currently exploring **Fedora**
+- 💻 Building real, working systems — from CI/CD tooling to full-stack apps
+- 📦 Comfortable across the stack: backend, infra, and frontend
+- 🌱 Actively exploring open source and DevOps workflows
+- 🤝 Open to collaboration on interesting projects
 
-<!--END_SECTION:mydata-->
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+	<img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/><br>
+	<sub><b>Platform</b></sub>
+</td>
+<td align="center" width="200">
+	<img src="https://img.shields.io/badge/-EndeavourOS-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white" alt="EndeavourOS"/><br>
+	<sub><b>Daily Driver</b></sub>
+</td>
+<td align="center" width="200">
+	<img src="https://img.shields.io/badge/-Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/><br>
+	<sub><b>Exploring</b></sub>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -133,14 +127,18 @@ Fleet management system — add/update/delete vehicles, maintenance schedules, s
 
 <br>
 
-## Connect
-
-```text
-> GitHub ........ github.com/AyushCN
-> LinkedIn ...... linkedin.com/in/ayushcn
-> Status ........ Open to collaboration
-```
+## Let's Connect
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=AyushCN&color=blue&label=Visitors" alt="Profile views" />
+	<a href="https://github.com/AyushCN/">
+		<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+	</a>
+	<a href="https://www.linkedin.com/in/ayushcn">
+		<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	</a>
+	<img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-brightgreen?style=for-the-badge" alt="Open to collaboration"/>
+</p>
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=AyushCN&color=blue&label=Profile%20Views&style=for-the-badge" alt="Profile views" />
 </p>
