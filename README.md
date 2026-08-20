@@ -56,20 +56,6 @@
 
 <br>
 
-<h4 align="left">My weekly coding activity</h4>
-
-<!--START_SECTION:waka-->
-<!-- This section auto-updates using the WakaTime GitHub README stats action. -->
-<!-- See setup instructions below to enable live data. -->
-
-```text
-📊 Weekly development breakdown will appear here once WakaTime is connected.
-```
-
-<!--END_SECTION:waka-->
-
-<br>
-
 <h4 align="left">GitHub Stats</h4>
 
 <p align="center">
